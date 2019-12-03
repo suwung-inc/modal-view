@@ -1,3 +1,1 @@
-
-##Modal Window Effects
-=========
+## Modal Window View Effect
